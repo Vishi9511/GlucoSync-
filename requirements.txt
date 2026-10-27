@@ -1,0 +1,7 @@
+streamlit>=1.40.0
+openai>=1.60.0
+pandas>=2.0.0
+plotly>=5.20.0
+torch
+transformers
+pillow
